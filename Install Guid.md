@@ -5,7 +5,9 @@ Add Crosspost-Auth To the subreddit
 
 ---
 ### Saved Respones
-*** Note These Saved respones Are planned to move to internal code.
+*** Optional
+
+If these are left blank Crosspost-Auth will post its own reason. 
 
 Adding to subreddit Saved Respones
 - Un-apporved Cross-Post: Not in Approved list
