@@ -37,7 +37,7 @@ At this time using both might conflict with eachother. its Reocommended to remov
 
 --- 
 
-##Subreddit Auto Auth 
+## Subreddit Auto Auth 
 - The Amount of Combined Karma A user needs To be Approved [Post Karma + Comment Karma]
     - Can be any number, 500 total karma is recommended
 
