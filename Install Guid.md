@@ -34,4 +34,12 @@ At this time using both might conflict with eachother. its Reocommended to remov
 
 - Number of Days that a users will be ban due to cross-posting.
     - Can be any number, 1 - 90 days is recommended
- 
+
+--- 
+
+##Subreddit Auto Auth 
+- The Amount of Combined Karma A user needs To be Approved [Post Karma + Comment Karma]
+    - Can be any number, 500 total karma is recommended
+
+- The Age of the Account *IN DAYS* needed To be Approved
+    - Can be any number, 30 - 90 days is recommended
