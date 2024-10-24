@@ -1,5 +1,4 @@
 # Welcome To CrossPost-Auth
-[![Devvit Version](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Assets/Badge/Devvit_0_11_1.svg)](https://developers.reddit.com/docs/)
 [![Devvit Version](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Assets/Badge/1Devvit_0_11_1.svg)](https://developers.reddit.com/docs/)
 
 
