@@ -73,11 +73,12 @@
   </g>
   <g
      id="g6"
-     inkscape:label="g1">
+     inkscape:label="g1"
+     transform="translate(1.3554241)">
     <text
        xml:space="preserve"
        id="text3"
-       style="font-size:20px;line-height:0;white-space:pre;shape-inside:url(#rect4);fill:#ffffff"
+       style="font-size:20px;line-height:0;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#ffffff"
        transform="translate(-2.012702,9.8718245)"><tspan
          x="6.3261719"
          y="11.3052"
@@ -85,8 +86,8 @@
     <text
        xml:space="preserve"
        id="text4"
-       style="font-size:14px;line-height:0;white-space:pre;shape-inside:url(#rect5);fill:#ffffff"
-       transform="translate(-6.2955683,7.7139473)"><tspan
+       style="font-size:14px;line-height:0;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#ffffff"
+       transform="translate(-3.5847201,7.7139473)"><tspan
          x="84.150391"
          y="12.551921"
          id="tspan2">0.11.1</tspan></text>
