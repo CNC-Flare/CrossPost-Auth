@@ -2,6 +2,7 @@
 [![Devvit Version](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Assets/Badge/Devvit_0_11_1.svg)](https://developers.reddit.com/docs/)
 
 
+
 **Features:**  
 - Remove CrossPost from subreddit if user is not in the approved List.  
 - Issues Strikes to users who keep trying to CrossPost with out permision  
