@@ -1,7 +1,6 @@
 # Welcome To CrossPost-Auth
 
-[![Devvit Version](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Assets/Badge/1Devvit_0_11_1.svg)](https://developers.reddit.com/docs/)
-
+[![Devvit 0.11.1](https://raw.githubusercontent.com/CNC-Flare/CrossPost-Auth/301bfb9b37a264646d887223913fd640ada20c89/Assets/Badge/1_Devvit-0-11-1.svg)](https://developers.reddit.com/docs/)
 
 **Features:**  
 - Remove CrossPost from subreddit if user is not in the approved List.  
