@@ -10,7 +10,7 @@
 
 ---  
 
-### <p align=center> [instal Guide](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Install%20Guid.md) </p>
+### [Install Guide](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Install%20Guid.md)
 
 ---  
 ## Crosspost-Auth: Defualt Settings  
