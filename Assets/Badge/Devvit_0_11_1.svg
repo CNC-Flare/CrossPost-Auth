@@ -48,9 +48,9 @@
      inkscape:zoom="3.6888824"
      inkscape:cx="15.316292"
      inkscape:cy="69.262171"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1592"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3" />
@@ -73,11 +73,12 @@
   </g>
   <g
      id="g6"
-     inkscape:label="g1">
+     inkscape:label="g1"
+     transform="translate(3.5241026,-0.81325446)">
     <text
        xml:space="preserve"
        id="text3"
-       style="font-size:20px;line-height:0;white-space:pre;shape-inside:url(#rect4);fill:#ffffff"
+       style="font-size:20px;line-height:0;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#ffffff"
        transform="translate(-2.012702,9.8718245)"><tspan
          x="6.3261719"
          y="11.3052"
@@ -85,8 +86,8 @@
     <text
        xml:space="preserve"
        id="text4"
-       style="font-size:14px;line-height:0;white-space:pre;shape-inside:url(#rect5);fill:#ffffff"
-       transform="translate(-6.2955683,7.7139473)"><tspan
+       style="font-size:14px;line-height:0;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#ffffff"
+       transform="translate(-6.2955683,7.9850321)"><tspan
          x="84.150391"
          y="12.551921"
          id="tspan2">0.11.1</tspan></text>
